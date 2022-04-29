@@ -1,0 +1,12 @@
+<? versión xml = " 1.0 " codificación = " utf-8 " ?>
+< fecha de tv  = " 29-04-2022 " nombre-info-generador = " Actualización 02:55:15 - 29/04/2022 " " >  
+<id del canal= " AZTECA UNO " >
+    <display-name lang= " es " >AZTECA UNO</display-name>
+    <número-de-visualización>1</número-de-visualización>
+    <icono src= " https://archive.org/download/logo.brootv_mexico_9oct/AZTECA_UNO.png " />
+</canal>
+<identificación del canal= " ADN 40 " >
+    <nombre-display lang= " vi " >ADN 40</nombre-display>
+    <número-de-visualización>2</número-de-visualización>
+    <icono src= " https://archive.org/download/logo.brootv_mexico_9oct/ADN40.png " />
+</canal>
